@@ -3,14 +3,17 @@
 	background:yellow;
 	border-width:1px;
 	border-color:green;
+	border-style: solid;
 }
 #para2{
 	background:red;
 	border-width:1px;
 	border-color:black;
+	border-style: solid;
 }
 #para3{
 	background:green;
 	border-width:1px;
 	border-color:yellow;
+	border-style: solid;
 }
