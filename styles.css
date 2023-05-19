@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+#para1{
+	background:yellow;
+	border-width:1px;
+	border-color:green;
+}
+#para2{
+	background:red;
+	border-width:1px;
+	border-color:black;
+}
+#para3{
+	background:green;
+	border-width:1px;
+	border-color:yellow;
+}
